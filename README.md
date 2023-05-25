@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>Hi, I'm Diana! <br/><a href= 'https://github.com/DianaNduta'>Data Scientist</a>, <a href="https://www.linkedin.com/in/diana-nduta-4779bb1b1/">Data Analyst</a>, <a href="https://www.linkedin.com/in/diana-nduta-4779bb1b1">Biomedical Engineer</a></h1>
 
-<!--
-**DianaNduta/DianaNduta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Data Science Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Predicting Readmission Rates for Diabetic Patients](https://github.com/DianaNduta/Predicting-Readmission-Rates-for-Diabetic-Patients)
+  - [King County House Sales Analysis](https://github.com/DianaNduta/King-County-House-Sales-Analysis)
+  - [Microsoft Movie Analysis](https://github.com/DianaNduta/Microsoft-Movie-Analysis)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📺 Certifications</h2>
+
+- [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/UDYGUKMTBUUN)
+- [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/certificate/CEYK68Z4ELVL)
+
