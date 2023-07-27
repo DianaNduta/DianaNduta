@@ -3,6 +3,8 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Startup Funding Analysis](https://github.com/DianaNduta/Startup-Funding-Analysis)
+
   - [Predicting Readmission Rates for Diabetic Patients](https://github.com/DianaNduta/Predicting-Readmission-Rates-for-Diabetic-Patients)
   - [King County House Sales Analysis](https://github.com/DianaNduta/King-County-House-Sales-Analysis)
   - [Microsoft Movie Analysis](https://github.com/DianaNduta/Microsoft-Movie-Analysis)
