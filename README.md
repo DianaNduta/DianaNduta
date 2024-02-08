@@ -4,7 +4,7 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
 
-  -[Abdominal Trauma Detection](https://github.com/DianaNduta/RSNA)
+  - [Abdominal Trauma Detection](https://github.com/DianaNduta/RSNA)
   - [Startup Funding Analysis](https://github.com/DianaNduta/Startup-Funding-Analysis)
 
   - [Predicting Readmission Rates for Diabetic Patients](https://github.com/DianaNduta/Predicting-Readmission-Rates-for-Diabetic-Patients)
